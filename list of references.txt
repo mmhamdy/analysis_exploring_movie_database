@@ -1,0 +1,17 @@
+About TMDb:
+https://www.themoviedb.org/about
+
+TMDb popularity column:
+https://developers.themoviedb.org/3/getting-started/popularity
+
+Stack overflow post about str.get_dummies:
+https://stackoverflow.com/questions/28121682/quickest-way-to-make-a-get-dummies-type-dataframe-from-a-column-with-a-multiple
+
+Pandas documentation for str.get_dummies:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.get_dummies.html
+
+Pandas tutorial for concat:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+
+Seaborn tutorial for pairplot:
+https://seaborn.pydata.org/tutorial/axis_grids.html
